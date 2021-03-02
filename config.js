@@ -23,7 +23,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "熊熊小可爱": "./imgs/WechatIMG50.jpeg",
+        "熊熊": "./imgs/WechatIMG50.jpeg",
         "爱你": "./imgs/love.png",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
